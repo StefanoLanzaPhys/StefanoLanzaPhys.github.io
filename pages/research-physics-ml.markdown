@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Research in Machine Learning and Physics
 permalink: /research-physics-ml
+exclude: true
 ---
 
 ## Machine Learning String Theory
@@ -28,7 +29,7 @@ As a first step in this direction, in this work
 
 *   **Neural Network Learning and Quantum Gravity** \
     _Stefano Lanza_ \
-    Preprint \
+    Published in: JHEP, vol. 07, p. 105, 2024 \
     [PDF](https://arxiv.org/pdf/2403.03245), [arXiv](https://arxiv.org/abs/2403.03245), [INSPIRE-HEP](https://inspirehep.net/literature/2765816)
 
 I have illustrated that the geometrical structures that characterize Quantum Gravity _imply_ the statistical learnability of several problems that one can therein formulate.
@@ -44,7 +45,7 @@ Along this direction, in the following work
 
 *   **Machine learning the breakdown of tame effective theories** \
     _Stefano Lanza_ \
-    Preprint \
+    Published in: Eur. Phys. J. C, vol. 84, no. 6, p. 631, 2024 \
     [PDF](https://arxiv.org/pdf/2311.03437), [arXiv](https://arxiv.org/abs/2311.03437), [INSPIRE-HEP](https://inspirehep.net/literature/2719851)
 
 I have employed supervised classification algorithms - the _k-nearest neighbor_ and the _Linear Support Vector Machine_ algorithms - in order to predict the kinds of states that break-down stringy effective field theories.

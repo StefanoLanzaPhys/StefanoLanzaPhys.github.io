@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Research in Supergravity and String Phenomenology
 permalink: /research-string-pheno
+exclude: true
 ---
 
 

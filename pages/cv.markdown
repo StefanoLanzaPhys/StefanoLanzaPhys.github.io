@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Curriculum Vitae
 permalink: /cv
 image:
@@ -45,6 +45,11 @@ image:
 ---
 
 ### Teaching duties
+
+*   Teaching assistance for the course of **Quantum Field Theory I** \
+    Master of Theoretical Physics, Hamburg University \
+    Academic year 2024/2025 \
+    Lecturer: _Prof. Timo Weigand_
 
 *   Teaching assistance for the course of **Quantum Field Theory II** \
     Master of Theoretical Physics, Hamburg University \

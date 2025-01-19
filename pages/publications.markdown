@@ -1,20 +1,30 @@
 ---
-layout: default
+layout: page
 title: List of Publications
 permalink: /publications
 ---
 
-I have published 20 papers, with more than 400 citations. \
+I have published 22 papers, with more than 500 citations. \
 Here is the full list of published papers:
+
+*   **Uplifts in the Penumbra: Features of the Moduli Potential away from Infinite-Distance Boundaries** \
+    _Stefano Lanza, Alexander Westphal_ \
+    Preprint \
+    [PDF](https://arxiv.org/pdf/2412.12253), [arXiv](https://arxiv.org/abs/2412.12253), [INSPIRE-HEP](https://inspirehep.net/literature/2860420)
+
+*   **Asymptotics of 5d Supergravity Theories and the Emergent String Conjecture** \
+    _Lukas Kaufmann, Stefano Lanza, Timo Weigand_ \
+    Preprint \
+    [PDF](https://arxiv.org/pdf/2412.12251), [arXiv](https://arxiv.org/abs/2412.12251), [INSPIRE-HEP](https://inspirehep.net/literature/2860434)
 
 *   **Neural Network Learning and Quantum Gravity** \
     _Stefano Lanza_ \
-    Preprint \
+    Published in: JHEP, vol. 07, p. 105, 2024 \
     [PDF](https://arxiv.org/pdf/2403.03245), [arXiv](https://arxiv.org/abs/2403.03245), [INSPIRE-HEP](https://inspirehep.net/literature/2765816)
 
 *   **Machine learning the breakdown of tame effective theories** \
     _Stefano Lanza_ \
-    Preprint \
+    Published in: Eur. Phys. J. C, vol. 84, no. 6, p. 631, 2024 \
     [PDF](https://arxiv.org/pdf/2311.03437), [arXiv](https://arxiv.org/abs/2311.03437), [INSPIRE-HEP](https://inspirehep.net/literature/2719851)
 
 *   **Global symmetry-breaking and generalized theta-terms in Type IIB EFTs** \

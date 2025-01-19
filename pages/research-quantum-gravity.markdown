@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Research in Quantum Gravity
 permalink: /research-quantum-gravity
+exclude: true
 ---
 
 ## Finding Quantum Gravity traces in our Universe 
